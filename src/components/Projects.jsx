@@ -17,6 +17,7 @@ function Projects() {
       id: 1,
       title: "Capstone Project",
       description: "Full Stack Development",
+      link: "https://quiz-hoot-qgpyjy8bp-jrdc12.vercel.app/",
       img: img1,
     },
     {
